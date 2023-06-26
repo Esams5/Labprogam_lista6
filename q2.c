@@ -11,9 +11,9 @@ struct estoque{
 int main(){
     struct estoque e;
     strcpy(e.nomePeca,"Engrenagem");
-    e.num_peca = 155;
-    e.val = 14.99;
-    e.num_pedido = 800;
+    e.num_peca = 123;
+    e.val = 20.54;
+    e.num_pedido = 111;
 
     return 0;
 }
